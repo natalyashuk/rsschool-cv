@@ -48,7 +48,7 @@
 
 ##### LLC INTELSERV - Software Analyst
 
-######_since Decembr 2017_ 
+###### since Decembr 2017
 * Analysis and testing requirements;
 * Creating and executing check lists, test cases, traceability matrixes;
 * Functional testing and cross—browser, cross—platform testing;
