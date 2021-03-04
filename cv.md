@@ -18,7 +18,7 @@
 * Experience in MS SQL Server;
 * Knowledge : HTML, CSS, JavaScript;
 * Windows, Unix.
-***
+
 
 ```html
          <div class="tech-skills-container">
@@ -46,14 +46,14 @@
 
 #### EXPERIENCE:
 ##### LLC INTELSERV - Software Analyst
-###### _ since Decembr 2017_ 
+######_ since Decembr 2017_ 
 * Analysis and testing requirements;
 * Creating and executing check lists, test cases, traceability matrixes;
 * Functional testing and cross—browser, cross—platform testing;
 * Smoke, Functional, cross—browser, cross—platform;
 * Regression, Sanity, GUI, Usab ility testing;
 * Reporting and tracking defects in ira,  to  final  resolution. 
-***
+
 #### LANGUAGES SKILLS:
 * English  - Pre-Intermediate 
 * Ukrainian - Native
